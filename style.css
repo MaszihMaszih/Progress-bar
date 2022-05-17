@@ -44,7 +44,7 @@ h1 {
   color: #333;
 }
 .progress-bar .bar.negative {
-  background: #07A4DD;
+  background: #424d70; 
   right: 0;
   width: 46%;
   -webkit-animation: animate-negative 4s;
